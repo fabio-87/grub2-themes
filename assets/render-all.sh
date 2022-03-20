@@ -1,7 +1,7 @@
 #!/bin/bash
 
 THEMES=("color" "white" "whitesur" "select")
-RESOLUTIONS=("1080p" "2k" "4k")
+RESOLUTIONS=("1080p" "fhdp" "2k" "4k")
 
 for theme in "${THEMES[@]}"; do
   for resolution in "${RESOLUTIONS[@]}"; do
